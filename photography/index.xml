@@ -5,10 +5,6 @@
     <link>https://jkrol21.github.io/photography/</link>
     <description>Recent content in Photography on Jan Krol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jkrol21.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://jkrol21.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
